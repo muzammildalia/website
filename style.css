@@ -1,0 +1,10 @@
+.carousel > .carousel-inner > .carousel-item > img{
+    width:100%; /* Yeap you can change the width and height*/
+    height:50rem;
+}
+
+.section-title {
+    position: relative;
+    padding: 115px 0 35px 0;
+    text-align: center;
+  }
